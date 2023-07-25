@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+CV
+======
+* (add file)
+
 Education
 ======
 * Ph.D. in Linguistics, The University of Texas at Austin, 2018-
