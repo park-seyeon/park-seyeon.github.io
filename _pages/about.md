@@ -13,5 +13,4 @@ TBD
 ======
 Under construction:) 
 
-#![UT Tower](/images/uttower.PNG)
 
