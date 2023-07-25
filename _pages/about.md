@@ -13,5 +13,5 @@ TBD
 ======
 Under construction:) 
 
-![UT Tower](/images/uttower.heic)
+![UT Tower](/images/uttower.PNG)
 
