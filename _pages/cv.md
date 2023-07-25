@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[July 2023](park-cv-july23.pdf)
+[Here](park-cv-july23.pdf) is my CV (updated July 2023). 
 
 Education
 ======
