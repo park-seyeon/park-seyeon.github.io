@@ -13,5 +13,5 @@ TBD
 ======
 Under construction:) 
 
-![Editing a markdown file for a talk](/images/uttower.heic)
+![UT Tower](/images/uttower.heic)
 
