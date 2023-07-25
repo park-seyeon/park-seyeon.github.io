@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "SeYeon Park"
   avatar           : "seyeon.JPG"
-  bio              : "(add bio)"
+  bio              : "Hi! This website is still under construction and quite a mess."
   location         : "The University of Texas at Austin"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -182,7 +182,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
     output: true
