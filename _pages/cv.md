@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-* (add file)
+[July 2023](park-cv-july23.pdf)
 
 Education
 ======
