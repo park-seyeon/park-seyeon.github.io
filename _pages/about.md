@@ -13,5 +13,5 @@ TBD
 ======
 Under construction:) 
 
-![UT Tower](https://github.com/park-seyeon/park-seyeon.github.io/blob/master/images/uttower.jpg)
+![UT Tower](uttower.jpg)
 
