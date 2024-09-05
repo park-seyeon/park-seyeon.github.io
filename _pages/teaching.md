@@ -9,6 +9,8 @@ redirect_from:
 
 ## The University of Texas at Austin
 
+* Fall 2024. Instructor, Syntax and Semantics: The Structure and Meaning of Utterances
+* Spring 2024. Instructor, Introduction to the Study of Language
 * Fall 2023. Instructor, Introduction to the Study of Language
 * Spring 2023. Instructor, Introduction to the Study of Language
 * Fall 2022. Instructor, Introduction to the Study of Language
