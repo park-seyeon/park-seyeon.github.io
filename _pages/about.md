@@ -11,7 +11,7 @@ I am a fifth year graduate student in the [Department of Linguistics](https://li
 
 ======
 
-**MANUSCRIPTS AND WORKiNG PAPERS**
+**MANUSCRIPTS AND WORKING PAPERS**
 
 [2024] The new typology of causativization in Korean: the case of covert generic causatives. Ms. The University of
 Texas at Austin.
