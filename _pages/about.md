@@ -13,21 +13,20 @@ I am a fifth year graduate student in the [Department of Linguistics](https://li
 
 **MANUSCRIPTS AND WORKiNG PAPERS**
 
-Park, Seyeon. The new typology of causativization in Korean: the case of covert generic causatives. Ms. The University of
-Texas at Austin.
+2024. The new typology of causativization in Korean: the case of covert generic causatives. Ms. The University of
+Texas at Austin.\
+2023. cokka‑sey‑yo: “respectfully go fuck yourself”. Ms. The University of Texas at Austin.
 
-Park, Seyeon. cokka‑sey‑yo: “respectfully go fuck yourself”. Ms. The University of Texas at Austin.
-
-Park, Seyeon. Inadequacy: Implications of ‑(n)un in Korean. Ms. The University of Texas at Austin.
+2022. Inadequacy: Implications of ‑(n)un in Korean. Ms. The University of Texas at Austin.
 
 **PEER‑REVIEWED JOURNAL ARTICLES**
 
-Park, Seyeon. 2018. Scrambling in Korean Parasitic Gap Constructions and its Cross‑linguistic Implications. _Korean Journal
+2018. Scrambling in Korean Parasitic Gap Constructions and its Cross‑linguistic Implications. _Korean Journal
 of Linguistics_ 43‑1: 43‑72.
 
 **CONFERENCE PROCEEDINGS**
 
-Park, Seyeon. 2017. Non‑Constituent Coordination: Against a Move‑and‑Delete Account. _Proceedingsof the 2017 CORE
+2017. Non‑Constituent Coordination: Against a Move‑and‑Delete Account. _Proceedingsof the 2017 CORE
 Conference of English Language and Literature_, Sungkyunkwan University. Vol. 2:39‑43.
 
 **CONFERENCE PRESENTATIONS**
