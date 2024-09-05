@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a fifth year graduate student in the [Department of Linguistics](https://liberalarts.utexas.edu/linguistics/) at The University of Texas at Austin. 
 
-%Publications/Presentations
+#Publications/Presentations
 ======
 **MANUSCRiPTS AND WORKiNG PAPERS**
 
