@@ -10,7 +10,8 @@ redirect_from:
 I am a fifth year graduate student in the [Department of Linguistics](https://liberalarts.utexas.edu/linguistics/) at The University of Texas at Austin. 
 
 ======
-**MANUSCRiPTS AND WORKiNG PAPERS**
+
+**MANUSCRIPTS AND WORKiNG PAPERS**
 
 Park, Seyeon. The new typology of causativization in Korean: the case of covert generic causatives. Ms. The University of
 Texas at Austin.
@@ -19,17 +20,17 @@ Park, Seyeon. cokka‑sey‑yo: “respectfully go fuck yourself”. Ms. The Uni
 
 Park, Seyeon. Inadequacy: Implications of ‑(n)un in Korean. Ms. The University of Texas at Austin.
 
-**PEER‑REViEWED JOURNAL ARTiCLES**
+**PEER‑REVIEWED JOURNAL ARTICLES**
 
 Park, Seyeon. 2018. Scrambling in Korean Parasitic Gap Constructions and its Cross‑linguistic Implications. _Korean Journal
 of Linguistics_ 43‑1: 43‑72.
 
-**CONFERENCE PROCEEDiNGS**
+**CONFERENCE PROCEEDINGS**
 
 Park, Seyeon. 2017. Non‑Constituent Coordination: Against a Move‑and‑Delete Account. _Proceedingsof the 2017 CORE
 Conference of English Language and Literature_, Sungkyunkwan University. Vol. 2:39‑43.
 
-**CONFERENCE PRESENTATiONS**
+**CONFERENCE PRESENTATIONS**
 
 Park, Seyeon. 2025. Two pragmatic functions of honorifics in Korean. _Oral presentation at the 99th Annual Meeting of the
 Linguistic Society of America_, Philadelphia, PA, January 9–12.
