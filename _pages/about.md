@@ -13,7 +13,7 @@ I am a fifth year graduate student in the [Department of Linguistics](https://li
 
 **MANUSCRIPTS AND WORKiNG PAPERS**
 
-2024. The new typology of causativization in Korean: the case of covert generic causatives. Ms. The University of
+[2024] The new typology of causativization in Korean: the case of covert generic causatives. Ms. The University of
 Texas at Austin.
 2023. cokka‑sey‑yo: “respectfully go fuck yourself”. Ms. The University of Texas at Austin.
 2022. Inadequacy: Implications of ‑(n)un in Korean. Ms. The University of Texas at Austin.
