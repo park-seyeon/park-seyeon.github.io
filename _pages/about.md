@@ -11,7 +11,7 @@ I am a fifth year graduate student in the [Department of Linguistics](https://li
 
 Publications/Presentations
 ======
-**MANUSCRiPTS AND WORKiNG PAPERS**
+**MANUSCRiPTS AND WORKiNG PAPERS**\\
 Park, Seyeon. The new typology of causativization in Korean: the case of covert generic causatives. Ms. The University of
 Texas at Austin.
 Park, Seyeon. cokka‑sey‑yo: “respectfully go fuck yourself”. Ms. The University of Texas at Austin.
