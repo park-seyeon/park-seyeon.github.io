@@ -16,5 +16,7 @@ redirect_from:
 Education
 ======
 * Ph.D. (in progress) in Linguistics, The University of Texas at Austin, 2018-
+  Dissertation committee: [John Beavers](https://sites.google.com/a/utexas.edu/jbeavers/) (Advisor), [David Beaver](https://liberalarts.utexas.edu/linguistics/faculty/dib97), [Ashwini Deo](https://liberalarts.utexas.edu/linguistics/faculty/asd853), [Hanjung Lee](https://sites.google.com/view/hanjung-lee)
 * M.A. in Linguistics, Sungkyunkwan University, 2018
-* B.A. in English Language and Literature, Sungkyunkwan University, 2016
+  Advisor: [Jungmee Lee](https://humanities.snu.ac.kr/en/faculty?deptidx=3&md=view&profidx=189)
+* B.A. in English Language and Literature, Sungkyunkwan University, 2016 (Honors Student)
