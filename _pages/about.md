@@ -33,16 +33,16 @@ Conference of English Language and Literature_, Sungkyunkwan University. Vol. 2:
 **CONFERENCE PRESENTATIONS**
 
 [2025] Two pragmatic functions of honorifics in Korean. _Oral presentation at the 99th Annual Meeting of the
-Linguistic Society of America_, Philadelphia, PA, January 9–12.
+Linguistic Society of America_ (**_LSA99_**), Philadelphia , PA, January 9–12.
 
 [2024] Covert generic causatives in Korean as dispositional ascriptions. _Poster presentation at Sinn und
-Bedeutung 29_, Noto, Italy, September 16–20. [[poster](https://park-seyeon.github.io/files/subposter2024.pdf)]
+Bedeutung 29_ (**_SuB29_**), Noto, Italy, September 16–20. [[poster](https://park-seyeon.github.io/files/subposter2024.pdf)]
 
 [2024] Causative generics in Korean: non‑agentivity and new typology of causativization. _Poster presentation
-at the 98th Annual Meeting of the Linguistic Society of America_, NYC, NY, January 4–7. [[poster](https://park-seyeon.github.io/files/lsaposter2024.pdf)]
+at the 98th Annual Meeting of the Linguistic Society of America_ (**_LSA98_**), NYC, NY, January 4–7. [[poster](https://park-seyeon.github.io/files/lsaposter2024.pdf)]
 
 [2023] Inadequacy: Two different types of implications of ‑(n)un in Korean. _Poster presentation at the 97th
-Annual Meeting of the Linguistic Society of America_, Denver, CO, January 5–8. [[poster](https://park-seyeon.github.io/files/lsaposter2023-1.pdf)]
+Annual Meeting of the Linguistic Society of America_ (**_LSA 97_**), Denver, CO, January 5–8. [[poster](https://park-seyeon.github.io/files/lsaposter2023-1.pdf)]
 
 [2017] Non‑Constituent Coordination: Against a Move‑and‑Delete Account. _Oral presentation at the 2017
 CORE Conference of English Language and Literature_, Sungkyunkwan University, Seoul, South Korea, December 8.
