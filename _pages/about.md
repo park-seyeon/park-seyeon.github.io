@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a fifth year graduate student in the [Department of Linguistics](https://liberalarts.utexas.edu/linguistics/) at The University of Texas at Austin. 
+I am a fifth year graduate student (a member of [synners & semmers](https://sites.utexas.edu/synsem/)) in the [Department of Linguistics](https://liberalarts.utexas.edu/linguistics/) at The University of Texas at Austin. 
 
 **Upcoming talks**
 
