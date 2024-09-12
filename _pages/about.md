@@ -34,7 +34,7 @@ Conference of English Language and Literature_, Sungkyunkwan University. Vol. 2:
 Linguistic Society of America_ (**_LSA 99_**), Philadelphia , PA, January 9–12.
 
 [2024] Covert generic causatives in Korean as dispositional ascriptions. _Poster presentation at Sinn und
-Bedeutung 29_ (**_SuB 29_**), Noto, Italy, September 16–20. [[poster](https://park-seyeon.github.io/files/subposter2024.pdf)]
+Bedeutung 29_ (**_SuB 29_**), Noto, Italy, September 16–20. [[Lightning Talk]](sub2024-lightning.pdf)[[poster](https://park-seyeon.github.io/files/subposter2024.pdf)]
 
 [2024] Causative generics in Korean: non‑agentivity and new typology of causativization. _Poster presentation
 at the 98th Annual Meeting of the Linguistic Society of America_ (**_LSA 98_**), NYC, NY, January 4–7. [[poster](https://park-seyeon.github.io/files/lsaposter2024-1.pdf)]
