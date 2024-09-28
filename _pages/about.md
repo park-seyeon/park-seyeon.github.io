@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a fifth year graduate student (a member of [synners & semmers](https://sites.utexas.edu/synsem/)) in the [Department of Linguistics](https://liberalarts.utexas.edu/linguistics/) at The University of Texas at Austin. 
 
-**Recent/Upcoming events**
+**Recent/upcoming events**
 
 September 2024. SuB 29 in Sicily
 
