@@ -13,7 +13,7 @@ Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-240115-causat
 
 [2023] _cokka‑sey‑yo_: “respectfully go fuck yourself”. Ms. The University of Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-230314-respectfully.pdf)]
 
-[2022] Inadequacy: Implications of ‑(n)un in Korean. Ms. The University of Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-220506-inadequacy.pdf)]
+[2022] Inadequacy: Implications of _‑(n)un_ in Korean. Ms. The University of Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-220506-inadequacy.pdf)]
 
 [2021] A QUD approach to Korean discourse markers _-i/ka_ and _-(n)un_. Ms. The University of Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-211212-qud.pdf)]
 
