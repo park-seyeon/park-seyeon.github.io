@@ -6,6 +6,16 @@ redirect_from:
   - /md/
   - /markdown.html
 ---
+**MANUSCRIPTS AND WORKING PAPERS**
+
+[2024] The new typology of causativization in Korean: the case of covert generic causatives. Ms. The University of
+Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-240115-causativization)]
+
+[2023] _cokka‑sey‑yo_: “respectfully go fuck yourself”. Ms. The University of Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-230314-respectfully)]
+
+[2022] Inadequacy: Implications of ‑(n)un in Korean. Ms. The University of Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-220506-inadequacy)]
+
+[2021] A QUD approach to Korean discourse markers _-i/ka_ and _-(n)un_. Ms. The University of Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-211212-qud)]
 
 **PEER‑REVIEWED JOURNAL ARTICLES**
 
@@ -34,11 +44,4 @@ Annual Meeting of the Linguistic Society of America_ (**_LSA 97_**), Denver, CO,
 [2017] Non‑Constituent Coordination: Against a Move‑and‑Delete Account. _Oral presentation at the 2017
 CORE Conference of English Language and Literature_, Sungkyunkwan University, Seoul, South Korea, December 8.
 
-**MANUSCRIPTS AND WORKING PAPERS**
 
-[2024] The new typology of causativization in Korean: the case of covert generic causatives. Ms. The University of
-Texas at Austin.
-
-[2023] cokka‑sey‑yo: “respectfully go fuck yourself”. Ms. The University of Texas at Austin.
-
-[2022] Inadequacy: Implications of ‑(n)un in Korean. Ms. The University of Texas at Austin.
