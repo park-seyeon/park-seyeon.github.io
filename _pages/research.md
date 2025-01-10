@@ -30,7 +30,7 @@ Conference of English Language and Literature_, Sungkyunkwan University. Vol. 2:
 **CONFERENCE PRESENTATIONS**
 
 [2025] Two pragmatic functions of honorifics in Korean. _Oral presentation at the 99th Annual Meeting of the
-Linguistic Society of America_ (**_LSA 99_**), Philadelphia , PA, January 9–12. [[slides](https://park-seyeon.github.io/files/lsa2025-talk-1.pdf)]
+Linguistic Society of America_ (**_LSA 99_**), Philadelphia , PA, January 9–12. [[slides](https://park-seyeon.github.io/files/lsa2025-talk.pdf)]
 
 [2024] Covert generic causatives in Korean as dispositional ascriptions. _Poster presentation at Sinn und
 Bedeutung 29_ (**_SuB 29_**), Noto, Italy, September 16–20. [[Lightning Talk](https://park-seyeon.github.io/files/sub2024-lightning-1.pdf)][[poster](https://park-seyeon.github.io/files/subposter2024.pdf)]
