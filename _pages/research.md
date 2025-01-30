@@ -20,7 +20,7 @@ Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-240115-causat
 **PEER‑REVIEWED JOURNAL ARTICLES**
 
 [2018] Scrambling in Korean Parasitic Gap Constructions and its Cross‑linguistic Implications. _Korean Journal
-of Linguistics_ 43‑1: 43‑72.
+of Linguistics_ 43‑1: 43‑72. [[paper](https://park-seyeon.github.io/files/Park-2018-scrambling.pdf)]
 
 **CONFERENCE PROCEEDINGS**
 
