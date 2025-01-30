@@ -11,7 +11,7 @@ redirect_from:
 [2024] The new typology of causativization in Korean: the case of covert generic causatives. Ms. The University of
 Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-240115-causativization.pdf)]
 
-[2023] _cokka‑sey‑yo_: “respectfully go fuck yourself”. Ms. The University of Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-230314-respectfully.pdf)]
+[2023] Two pragmatic functions of honorifics in Korean. Ms. The University of Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-230314-respectfully.pdf)]
 
 [2022] Inadequacy: Implications of _‑(n)un_ in Korean. Ms. The University of Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-220506-inadequacy.pdf)]
 
