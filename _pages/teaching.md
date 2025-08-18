@@ -11,6 +11,8 @@ redirect_from:
 
 **Instructor on record**
 
+* Fall 2025. Introduction to the Study of Language 
+* Summer 2025. Introduction to the Study of Language 
 * Spring 2025. Introduction to the Study of Language 
 * Fall 2024. Syntax and Semantics: The Structure and Meaning of Utterances
 * Spring 2024. Introduction to the Study of Language
