@@ -19,12 +19,12 @@ Texas at Austin. [[paper](https://park-seyeon.github.io/files/park-240115-causat
 
 **PEER‑REVIEWED JOURNAL ARTICLES**
 
-[in press] Covert generic causatives in Korean: A dispositional ascription analysis. _Proceedings of Sinn und Bedeutung 29._
-
 [2018] Scrambling in Korean Parasitic Gap Constructions and its Cross‑linguistic Implications. _Korean Journal
 of Linguistics_ 43‑1: 43‑72. [[paper](https://park-seyeon.github.io/files/Park-2018-scrambling.pdf)]
 
 **CONFERENCE PROCEEDINGS**
+
+[in press] Covert generic causatives in Korean: A dispositional ascription analysis. _Proceedings of Sinn und Bedeutung 29._
 
 [2017] Non‑Constituent Coordination: Against a Move‑and‑Delete Account. _Proceedingsof the 2017 CORE
 Conference of English Language and Literature_, Sungkyunkwan University. Vol. 2:39‑43.
