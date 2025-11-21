@@ -24,12 +24,16 @@ of Linguistics_ 43‑1: 43‑72. [[paper](https://park-seyeon.github.io/files/Pa
 
 **CONFERENCE PROCEEDINGS**
 
-[in press] Covert generic causatives in Korean: A dispositional ascription analysis. _Proceedings of Sinn und Bedeutung 29._
+[2025] Covert generic causatives in Korean: A dispositional ascription analysis. _Proceedings of Sinn und Bedeutung 29._
 
 [2017] Non‑Constituent Coordination: Against a Move‑and‑Delete Account. _Proceedingsof the 2017 CORE
 Conference of English Language and Literature_, Sungkyunkwan University. Vol. 2:39‑43.
 
 **CONFERENCE PRESENTATIONS**
+
+[2026] QUD sensitivity as a parameter of presupposition triggers: Evidence from Korean. _Oral presentation at the 100th Annual Meeting of the Linguistic Society of America_ (**_LSA 100_**), New Orleans, LA, January 8-11). Joint work with Seungho Nam and Seoyeong Lee. 
+
+[2025] When maximality derives kinds and contrastiveness: the case of Korean _-(n)un_. _Oral presentation at the 5th meeting of the Ontology As Structured by the Interfaces with Semantics_(**_OASIS 5_**), Edinburgh, UK, December 3-5. 
 
 [2025] Two pragmatic functions of honorifics in Korean. _Oral presentation at the 99th Annual Meeting of the
 Linguistic Society of America_ (**_LSA 99_**), Philadelphia , PA, January 9–12. [[slides](https://park-seyeon.github.io/files/lsa2025-talk.pdf)]
@@ -46,4 +50,7 @@ Annual Meeting of the Linguistic Society of America_ (**_LSA 97_**), Denver, CO,
 [2017] Non‑Constituent Coordination: Against a Move‑and‑Delete Account. _Oral presentation at the 2017
 CORE Conference of English Language and Literature_, Sungkyunkwan University, Seoul, South Korea, December 8.
 
+**Other Talks**
+
+[2025] When maximality derives kinds and contrastiveness: the case of Korean _-(n)un_. UCL, London, UK, November 26.
 
