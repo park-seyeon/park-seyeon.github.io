@@ -11,6 +11,7 @@ redirect_from:
 
 **Instructor on record**
 
+* Spring 2026. Introduction to the Study of Language 
 * Fall 2025. Introduction to the Study of Language 
 * Summer 2025. Introduction to the Study of Language 
 * Spring 2025. Introduction to the Study of Language 
