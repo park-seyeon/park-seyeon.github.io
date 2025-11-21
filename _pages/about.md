@@ -13,9 +13,11 @@ I am a fifth year graduate student (a member of [synners & semmers](https://site
 
 **Recent/upcoming events**
 
-September 2024. SuB 29 in Sicily
+November 2025. Mini talk (informal) at UCL, London
 
-January 2025. LSA 99 in Philadephia
+December 2025. Oasis 5 in Edinburgh
+
+January 2026. LSA 2026 in New Orleans
 
 
 ![UT Tower](/images/uttower.jpg)
