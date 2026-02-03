@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a sixth year PhD candidate (a member of [synners & semmers](https://sites.utexas.edu/synsem/)) in the [Department of Linguistics](https://liberalarts.utexas.edu/linguistics/) at The University of Texas at Austin, mainly advised by Dr. John Beavers (I am also working with Dr. David Beaver and Dr. Ashwini Deo). 
+I am currently a Visiting Research Student in the [Department of Linguistics and English Language](https://ppls.ed.ac.uk/linguistics-and-english-language) at the University of Edinburgh, advised by Dr. Kajsa Djärv and am a sixth year PhD candidate (a member of [synners & semmers](https://sites.utexas.edu/synsem/)) in the [Department of Linguistics](https://liberalarts.utexas.edu/linguistics/) at The University of Texas at Austin, mainly advised by Dr. John Beavers (I am also working with Dr. David Beaver and Dr. Ashwini Deo). 
 
 My dissertation explores the semantics and pragmatics of the use of so-called topic marker _-(n)un_ in spoken Korean. Specifically, I am interested in its interaction with other well-studied semantic phenomena, namely genericity and contrastiveness. My other projects include a lexical semantic study on causative constructions in Korean, which further addresses the issues on the typology of causativization, and a pragmatic study on the impolite use of honorifics in Korean. 
 
