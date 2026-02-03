@@ -11,11 +11,9 @@ redirect_from:
 
 **INSTRUCTOR ON RECORD**
 
-* **Syntax and Semantics: The Structure and Meaning of Utterances** (upper-division), Fall 2024
-* **Introduction to the Study of Language** (lower-division)
-  
+* **Syntax and Semantics: The Structure and Meaning of Utterances** (upper-division) <br> Fall 2024
+* **Introduction to the Study of Language** (lower-division) <br>
   7 semesters: Fall 2025, Summer 2025 (Asynchronous), Spring 2025, Spring 2024, Fall 2023, Spring 2023, Fall 2022 
-
   - _General Topics_ (mostly taught every semester): theoretical linguistics (including topics on inferences, lexical semantics, formal semantics, information structure, politeness), language contact, historical linguistics, language acquisition, sociolinguistics, neuro&psycholinguistics
   - _Languages_: focus on understudied languages (e.g. Paraguayan guaraní, Angaité, Nadahup; including documented data provided by UT linguists) and sign languages (e.g. ASL, LSM, Zinacantec Family Homesign)
   - _Special Topics_ (2-3 topics each semester; involved in class discussions/assessments): computational linguistics, NLP, psycholinguistics, language documentation, sign languages, writing systems, conlangs
