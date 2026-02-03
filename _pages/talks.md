@@ -9,7 +9,7 @@ redirect_from:
 
 **CONFERENCE PRESENTATIONS**
 
-[2026] QUD sensitivity as a parameter of presupposition triggers: Evidence from Korean. _Oral presentation at the 100th Annual Meeting of the Linguistic Society of America_ (**_LSA 100_**), New Orleans, LA, January 8-11). Joint work with Seungho Nam and Seoyeong Lee. 
+[2026] QUD sensitivity as a parameter of presupposition triggers: Evidence from Korean. _Oral presentation at the 100th Annual Meeting of the Linguistic Society of America_ (**_LSA 100_**), New Orleans, LA, January 8-11). Joint work with Seungho Nam and Seoyeong Lee. [[handout](https://park-seyeon.github.io/files/260110_LSA_HO_Korean_iterative.pdf)]
 
 [2025] When maximality derives kinds and contrastiveness: the case of Korean _-(n)un_. _Oral presentation at the 5th meeting of the Ontology As Structured by the Interfaces with Semantics_(**_OASIS 5_**), Edinburgh, UK, December 3-5. [[handout](https://park-seyeon.github.io/files/talk-oasis.pdf)]
 
