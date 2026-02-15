@@ -14,9 +14,11 @@ redirect_from:
 * **Syntax and Semantics: The Structure and Meaning of Utterances** (upper-division) <br> Fall 2024
 * **Introduction to the Study of Language** (lower-division) <br>
   7 semesters: Fall 2025, Summer 2025 (Asynchronous), Spring 2025, Spring 2024, Fall 2023, Spring 2023, Fall 2022 
-  - _General Topics_ (mostly taught every semester): theoretical linguistics (including topics on inferences, lexical semantics, formal semantics, information structure, politeness), language contact, historical linguistics, language acquisition, sociolinguistics, neuro&psycholinguistics
-  - _Languages_: focus on understudied languages (e.g. Paraguayan guaraní, Angaité, Nadahup; including documented data provided by UT linguists) and sign languages (e.g. ASL, LSM, Zinacantec Family Homesign)
-  - _Special Topics_ (2-3 topics each semester; involved in class discussions/assessments): computational linguistics, NLP, psycholinguistics, language documentation, sign languages, writing systems, conlangs
+  - _General Topics_: Most of the topics below are taught every semester. <br>
+     theoretical linguistics (including topics on inferences, lexical semantics, formal semantics, information structure, politeness), language contact, historical linguistics, language acquisition, sociolinguistics, neuro&psycholinguistics
+  - _Languages_: My class focuses on representing understudied languages (e.g. Paraguayan guaraní, Angaité, Nadahup) and sign languages (e.g. ASL, LSM, Zinacantec Family Homesign). It includes documented data provided by UT linguists.  
+  - _Special Topics_: My class provides a chance to learn two or three topics other than the general topics, which are selected based on students' preferences each semester (see below the list of topics that has been covered so far). I am mainly responsible for class discussions and assessments. <br>
+		computational linguistics/natural language processing, psycholinguistics, language documentation, sign languages, writing systems, constructed languages
 
 **GUEST LECTURES**
 
