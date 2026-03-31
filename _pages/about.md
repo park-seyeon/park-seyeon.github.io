@@ -17,11 +17,11 @@ I have two joint projects on discourse markers in Korean: (i) iteratives (will b
 
 **Recent/upcoming events**
 
-November 2025. Mini talk (informal) at UCL, London
+January 2026. LSA 2026 in New Orleans, LA, US 
 
-December 2025. Oasis 5 in Edinburgh
+June 2026. LELPGC 2026 in Edinburgh, UK
 
-January 2026. LSA 2026 in New Orleans 
+August 2026. SLE 2026 in Osnabrück, Germany
 
 
 ![UT Tower](/images/uttower.jpg)
