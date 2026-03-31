@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Here](https://park-seyeon.github.io/files/park-cv.pdf) is my CV (updated February 2026). 
+[Here](https://park-seyeon.github.io/files/park-cv.pdf) is my CV (updated March 2026). 
 
 <embed src="https://park-seyeon.github.io/files/park-cv.pdf" type="application/pdf"> 
 
