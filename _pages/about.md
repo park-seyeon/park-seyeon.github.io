@@ -11,7 +11,7 @@ I am currently a Visiting Research Student in the [Department of Linguistics and
 
 My dissertation explores the semantics and pragmatics of the use of so-called topic marker _-(n)un_ in spoken Korean. Specifically, I am interested in its interaction with other well-studied semantic phenomena, namely genericity and contrastiveness. My other projects include a lexical semantic study on causative constructions in Korean, which further addresses the issues on the typology of causativization, and a pragmatic study on the impolite use of honorifics in Korean. 
 
-I have two joint projects on discourse markers in Korean: (i) iteratives (will be presenting at LSA 2026), with Seungho Nam (Uconn) and Seoyeong Lee (Stanford), and (ii) _seolma_ (in progress), with Asher Zheng (UT Austin) and Sampada Despande (UT Austin). On iteratives, we explore three iteratives (_tasi_, _tto_, _-to_) that function as a presupposition trigger and how they show different levels of QUD sensitivity. On _seolma_, we explore how it gives rise to an expectation bias which differs from an epistemic bias, and explain this via Expectation Revision Potential. 
+I have two joint projects on discourse markers in Korean: (i) iteratives (LSA 2026), with Seungho Nam (Uconn) and Seoyeong Lee (Stanford), and (ii) _seolma_ (in progress), with Asher Zheng (UT Austin) and Sampada Despande (UT Austin). On iteratives, we explore three iteratives (_tasi_, _tto_, _-to_) that function as a presupposition trigger and how they show different levels of QUD sensitivity. On _seolma_, we explore how it gives rise to an expectation bias which differs from an epistemic bias, and explain this via Expectation Revision Potential. 
 
 ============
 
